@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+
+.artist{
+  border-bottom:1px solid #817e7e;
+  padding-left:20px;
+}
